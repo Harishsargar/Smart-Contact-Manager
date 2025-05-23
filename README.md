@@ -20,7 +20,7 @@ A web-based contact management system built using **Spring Boot** and **Thymelea
 | Layer        | Technology                              |
 |--------------|------------------------------------------|
 | Backend      | Spring Boot, Spring MVC, Spring Security |
-| Frontend     | Thymeleaf, Bootstrap                     |
+| Frontend     | Thymeleaf, Tailwind                      |
 | Database     | MySQL                                    |
 | Cloud Storage| Cloudinary / AWS S3                      |
 | Build Tool   | Maven                                    |
@@ -30,7 +30,7 @@ A web-based contact management system built using **Spring Boot** and **Thymelea
 ## 🖼 Project Screenshots
 
 <p float="left">
-  <img src="screenshots/image1.jpg" width="45%" />
+  <img src="screenshots/image1.jpg" width="45%"  />
   <img src="screenshots/image2.jpg" width="45%" />
   <img src="screenshots/image3.jpg" width="45%" />
   <img src="screenshots/image4.jpg" width="45%" />
